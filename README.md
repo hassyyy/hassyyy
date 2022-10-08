@@ -6,7 +6,6 @@
   - Web Development - Rails | HTML | JS | CSS | Git
 - 🌱 I’m currently learning: performance testing
 
-Contact me @
 [![enter image description here](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asan-n)
 
 [![@hassyyy's Holopin board](https://holopin.io/api/user/board?user=hassyyy)](https://holopin.io/@hassyyy)
