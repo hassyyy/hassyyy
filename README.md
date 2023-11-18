@@ -4,7 +4,6 @@
   - Test Automation - UI Automation | API Automation | Selenium | Ruby | RSpec | Jenkins | JMeter | Sitespeed
   - DevOps - Docker | Kubernetes | AWS | SpotInst | Heroku | Grafana
   - Web Development - Ruby on Rails | Ruby Gems | Sinatra | Marketplace Apps | SQL | Redis | Java | Groovy | HTML | JS | CSS | Git
-- 🌱 I’m currently learning: performance testing using tools like JMeter, Sitespeed
 
 [![enter image description here](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asan-n)
 
